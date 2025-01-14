@@ -1,0 +1,8 @@
+# App set up
+
+mode: debug
+server: 127.0.0.1
+port: 8050
+prefix: /my_dashboard
+data_dir: ./data/
+rainfall_data: ./data/prcp_MDG.nc
